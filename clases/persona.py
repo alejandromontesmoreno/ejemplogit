@@ -3,4 +3,3 @@ class Persona:
         self.nombre = nombre
         self.edad = edad
 
-    
